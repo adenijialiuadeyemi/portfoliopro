@@ -3,7 +3,7 @@
   "proxy": "http://localhost:YOUR_BACKEND_PORT",
   "secure": false,
   "version": "0.1.0",
-  "homepage": "https:adenijialiuadeyemi.github.io/portfoliopro",
+  "homepage": "https://adenijialiuadeyemi.github.io/portfoliopro/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
